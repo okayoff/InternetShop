@@ -1,0 +1,72 @@
+a{
+    text-decoration: none;
+}
+
+.nav-backcolor{
+    background-color: rgb(255, 255, 0);
+}
+.txt-nav{
+    color: black;
+    font-size: 1.1rem;
+}
+.txt-nav:hover{
+    color: black;
+}
+.txt-nameShop{
+    color: black;
+    font-size: 1.5rem;
+}
+.div-txt-search{
+    text-align: center;
+    padding-top: 15px;
+}
+.txt-search{
+    color: grey;
+    font-size: 1rem;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.txt-search:hover{
+    color: yellow;
+    font-size: 1rem;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.txt-search1{
+    color: grey;
+    font-size: 1rem;
+    text-decoration: none;
+}
+.txt-search1:hover{
+    color: yellow;
+    font-size: 1rem;
+    text-decoration: none;
+}
+.border-search{
+    border-bottom: 1px solid gray;
+    width: 45%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+.interesting{
+    text-align: center;
+    font-size: 2rem;
+    background-color: yellow;
+}
+
+#grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding: 10px;
+    margin-left: 10px;
+}
+.margin-card{
+    margin-top: 25px;
+}
+.product-name{
+    text-align: center;
+    font-size: 1.1rem;
+}
+.card-price{
+    font-size: 1.2rem;
+}
