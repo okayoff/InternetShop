@@ -70,3 +70,35 @@ a{
 .card-price{
     font-size: 1.2rem;
 }
+.sale{
+    text-decoration: line-through;
+}
+.a-button-buy{
+    border-style: solid;
+    border-width: 1px 1px;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    background-color: yellow;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+.a-button-buy:hover{
+    border-style: solid;
+    border-width: 1px 1px;
+    border-radius: 5px;
+    padding: 5px;
+    color: yellow;
+    background-color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+.margin-price-buy{
+    margin-bottom: 10px
+}
