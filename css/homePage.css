@@ -1,5 +1,6 @@
 a{
     text-decoration: none;
+    color: black;
 }
 
 .nav-backcolor{
@@ -8,9 +9,41 @@ a{
 .txt-nav{
     color: black;
     font-size: 1.1rem;
+    text-decoration: none;
 }
 .txt-nav:hover{
     color: black;
+    text-decoration: none;
+}
+.entrance:hover{
+    color: white;
+}
+.register{
+    border-style: solid;
+    border-width: 1px 1px;
+    border-radius: 5px;
+    padding: 5px;
+    color: black;
+    background-color: yellow;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    margin-left: 15px;
+}
+.register:hover{
+    border-style: solid;
+    border-width: 1px 1px;
+    border-radius: 5px;
+    padding: 5px;
+    color: yellow;
+    background-color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
 }
 .txt-nameShop{
     color: black;
@@ -101,4 +134,59 @@ a{
 }
 .margin-price-buy{
     margin-bottom: 10px
+}
+
+.entr-html{
+    text-align: center;
+    font-size: 1.5rem;
+    padding-top: 20px;
+}
+.card-entr{
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.login-txt{
+    margin-top: 15px;
+}
+.pass-txt{
+    margin-top: 15px;
+}
+.login-button{
+    border-style: solid;
+    border-width: 1px 1px;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    background-color: yellow;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+
+.login-button:hover{
+    border-style: solid;
+    border-width: 1px 1px;
+    border-radius: 5px;
+    padding: 5px;
+    color: yellow;
+    background-color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+}
+
+.txt-lorem{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: gray;
+    font-size: 0.75rem;
+    margin-top: 10px;
 }
